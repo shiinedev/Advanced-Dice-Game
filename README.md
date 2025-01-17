@@ -15,7 +15,7 @@ An enhanced version of the classic dice game, featuring multiple dice, game mode
 
 - Roll multiple dice and track the results.
 - Customizable game settings.
-- Play solo or with friends!
+- Play solo!
 - Simple, intuitive UI.
 
 ---
